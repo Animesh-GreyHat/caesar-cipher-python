@@ -1,0 +1,8 @@
+This Caesar Cipher project is developed strictly for educational purposes.
+
+Ethical Guidelines:
+- This tool is intended for learning basic cryptography concepts.
+- It should not be used to secure sensitive or confidential data.
+- Caesar Cipher is a simple substitution cipher and is not suitable for real-world security.
+
+The developer is not responsible for misuse of this tool.
